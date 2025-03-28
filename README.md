@@ -9,5 +9,5 @@ Experiment code, assets, and data extraction/pre-processing scripts for **Planet
 - 1. Phil_HCPextract_retest.m
   2. Phil_HCP2summary_retest.m
   3. Phil_HCP2ques_retest.m
-  4. HCP2_MAT2SPSS_retest.m
-  5. HCP_test_retest_followupQ
+  4. HCP_test_retest_followupQ.m
+  5. HCP2_MAT2SPSS_retest.m
